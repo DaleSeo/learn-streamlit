@@ -69,7 +69,7 @@ Startup Name:"""
 
 # The front end code starts here
 
-st.title("🚀 Startup Idea Generator")
+st.title("🚀 스타트업 생성기")
 
 form = st.form(key="user_settings")
 with form:
